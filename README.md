@@ -11,6 +11,7 @@ Within this Jupyter notebook I have gone through the Data Science pipeline, impl
 - A Standard scaler to scale the features to unit variance.
 - A Multivarient Linear Regression model with depth and time as the features.
 - Simple evaluation techniquestion which will be useful for hyperparameter tuning.
+- **Further Machine Learning evaluation by hyper parameter tuning the Linear Regression.**
 
 More information about the project can be read in the [notebook](Earthquake_Analysis.ipynb).
 
