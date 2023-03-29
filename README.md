@@ -1,4 +1,4 @@
-# Earthquake Prediction Project
+# Earthquake Prediction Project Version 2
 
 #### A full data pipleine that predicts the magnitude and coordinates of the next earthquake.
 
@@ -7,7 +7,7 @@ Within this project I have created a local Data Engineering infrastructure using
 * MySQL - To store the historical earthquake dataset and predicted earthquake information.
 * Power BI - To extract the data from MySQL database and visualise additional trends and patterns of earthquakes.
 
-Within this Jupyter notebook, I have gone through the Data Science pipeline and also implemented a Machine learning model. <br> Within this notebook, for the prediction of an earthquake, I have used:
+Within this Jupyter notebook I have gone through the Data Science pipeline, implemented a Machine learning model and have further undertaken hyperparameter tuning. <br> Within this notebook, for the prediction of an earthquake, I have used:
 - A Standard scaler to scale the features to unit variance.
 - A Multivarient Linear Regression model with depth and time as the features.
 - Simple evaluation techniquestion which will be useful for hyperparameter tuning.
